@@ -1,0 +1,9 @@
+{
+  "name": "playground-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "repository": "ssh://git@github.com/chick-p/playground-monorepo",
+  "author": "piyo <chick.p.1120@gmail.com>",
+  "license": "MIT"
+}
